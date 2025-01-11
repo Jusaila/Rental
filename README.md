@@ -1,3 +1,46 @@
+
+SCREEN SHOTS OF Rental APPLICATION:
+--------------------------------
+
+
+Enquiry List PAGE:
+---------------
+
+![Enquiry List](https://github.com/user-attachments/assets/69643ba5-4713-4299-bea1-4efde808c2c8)
+
+Create Enquiry PAGE:
+-----------------
+
+![create enquiry](https://github.com/user-attachments/assets/7e456fb3-daa1-48ac-8836-db993916b524)
+
+Validation Of Dates PAGE:
+------------------------
+
+![validation](https://github.com/user-attachments/assets/0c7e1508-d17f-49f0-a252-474fb922d3a3)
+
+
+Rental Product List PAGE:
+------------------------
+
+![rental list](https://github.com/user-attachments/assets/679167e7-5265-4beb-a716-8401e352f032)
+
+Create Rental Product PAGE:
+--------------------------
+
+![create rental](https://github.com/user-attachments/assets/434bcafd-2458-4bd1-ba40-483f62d45e39)
+
+
+
+
+
+
+
+
+
+
+
+
+
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
 <p align="center">
